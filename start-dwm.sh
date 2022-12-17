@@ -6,5 +6,8 @@ nitrogen --restore &
 
 xsetroot -name "Eve Holloway" &
 
+# Status Bar
+dwmbar &
+
 # Start DWM
 exec dwm
