@@ -1,5 +1,5 @@
 # Compositor
-picom -f --config /home/eve/.config/picom.conf &
+picom -f --config /home/eve/.config/dwm/picom.conf &
 
 # Wallpaper
 nitrogen --restore &
