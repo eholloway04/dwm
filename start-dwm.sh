@@ -4,7 +4,7 @@ picom -f --config /home/eve/.config/dwm/picom.conf &
 # Wallpaper
 nitrogen --restore &
 
-xsetroot -name "Emma Clare Holloway" &
+xsetroot -name "Eve Holloway" &
 
 # Start DWM
 exec dwm
